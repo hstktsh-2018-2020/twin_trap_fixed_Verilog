@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="D:/Users/takatoshi/Desktop/ISE Design Suite/twin_trap_fixed_Verilog/twin_trap_fixed_Verilog_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="twin_trap_fixed_Verilog" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="105" />
+   <wvobject fp_name="/twin_trap_fixed_Verilog/CLK" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">CLK</obj_property>
+      <obj_property name="ObjectShortName">CLK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans1</obj_property>
+      <obj_property name="ObjectShortName">trans1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans2</obj_property>
+      <obj_property name="ObjectShortName">trans2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans3" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans3</obj_property>
+      <obj_property name="ObjectShortName">trans3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans4" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans4</obj_property>
+      <obj_property name="ObjectShortName">trans4</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans5" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans5</obj_property>
+      <obj_property name="ObjectShortName">trans5</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans6" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans6</obj_property>
+      <obj_property name="ObjectShortName">trans6</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans7" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans7</obj_property>
+      <obj_property name="ObjectShortName">trans7</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans8" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans8</obj_property>
+      <obj_property name="ObjectShortName">trans8</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans9" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans9</obj_property>
+      <obj_property name="ObjectShortName">trans9</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans10" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans10</obj_property>
+      <obj_property name="ObjectShortName">trans10</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans11" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans11</obj_property>
+      <obj_property name="ObjectShortName">trans11</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans12" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans12</obj_property>
+      <obj_property name="ObjectShortName">trans12</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans13" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans13</obj_property>
+      <obj_property name="ObjectShortName">trans13</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans14" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans14</obj_property>
+      <obj_property name="ObjectShortName">trans14</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans15" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans15</obj_property>
+      <obj_property name="ObjectShortName">trans15</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans16" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans16</obj_property>
+      <obj_property name="ObjectShortName">trans16</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans17" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans17</obj_property>
+      <obj_property name="ObjectShortName">trans17</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans18" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans18</obj_property>
+      <obj_property name="ObjectShortName">trans18</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans19" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans19</obj_property>
+      <obj_property name="ObjectShortName">trans19</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans20" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans20</obj_property>
+      <obj_property name="ObjectShortName">trans20</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans21" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans21</obj_property>
+      <obj_property name="ObjectShortName">trans21</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans22" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans22</obj_property>
+      <obj_property name="ObjectShortName">trans22</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans23" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans23</obj_property>
+      <obj_property name="ObjectShortName">trans23</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans24" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans24</obj_property>
+      <obj_property name="ObjectShortName">trans24</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans25" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans25</obj_property>
+      <obj_property name="ObjectShortName">trans25</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans26" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans26</obj_property>
+      <obj_property name="ObjectShortName">trans26</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans27" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans27</obj_property>
+      <obj_property name="ObjectShortName">trans27</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans28" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans28</obj_property>
+      <obj_property name="ObjectShortName">trans28</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans29" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans29</obj_property>
+      <obj_property name="ObjectShortName">trans29</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans30" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans30</obj_property>
+      <obj_property name="ObjectShortName">trans30</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans31" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans31</obj_property>
+      <obj_property name="ObjectShortName">trans31</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans32" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans32</obj_property>
+      <obj_property name="ObjectShortName">trans32</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans33" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans33</obj_property>
+      <obj_property name="ObjectShortName">trans33</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans34" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans34</obj_property>
+      <obj_property name="ObjectShortName">trans34</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans35" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans35</obj_property>
+      <obj_property name="ObjectShortName">trans35</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans36" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans36</obj_property>
+      <obj_property name="ObjectShortName">trans36</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans37" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans37</obj_property>
+      <obj_property name="ObjectShortName">trans37</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans38" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans38</obj_property>
+      <obj_property name="ObjectShortName">trans38</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans39" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans39</obj_property>
+      <obj_property name="ObjectShortName">trans39</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans40" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans40</obj_property>
+      <obj_property name="ObjectShortName">trans40</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans41" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans41</obj_property>
+      <obj_property name="ObjectShortName">trans41</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans42" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans42</obj_property>
+      <obj_property name="ObjectShortName">trans42</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans43" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans43</obj_property>
+      <obj_property name="ObjectShortName">trans43</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans44" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans44</obj_property>
+      <obj_property name="ObjectShortName">trans44</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans45" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans45</obj_property>
+      <obj_property name="ObjectShortName">trans45</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans46" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans46</obj_property>
+      <obj_property name="ObjectShortName">trans46</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans47" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans47</obj_property>
+      <obj_property name="ObjectShortName">trans47</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans48" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans48</obj_property>
+      <obj_property name="ObjectShortName">trans48</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/trans49" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">trans49</obj_property>
+      <obj_property name="ObjectShortName">trans49</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm1</obj_property>
+      <obj_property name="ObjectShortName">pwm1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm2</obj_property>
+      <obj_property name="ObjectShortName">pwm2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm3" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm3</obj_property>
+      <obj_property name="ObjectShortName">pwm3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm4" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm4</obj_property>
+      <obj_property name="ObjectShortName">pwm4</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm5" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm5</obj_property>
+      <obj_property name="ObjectShortName">pwm5</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm6" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm6</obj_property>
+      <obj_property name="ObjectShortName">pwm6</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm7" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm7</obj_property>
+      <obj_property name="ObjectShortName">pwm7</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm8" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm8</obj_property>
+      <obj_property name="ObjectShortName">pwm8</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm9" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm9</obj_property>
+      <obj_property name="ObjectShortName">pwm9</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm10" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm10</obj_property>
+      <obj_property name="ObjectShortName">pwm10</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm11" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm11</obj_property>
+      <obj_property name="ObjectShortName">pwm11</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm12" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm12</obj_property>
+      <obj_property name="ObjectShortName">pwm12</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm13" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm13</obj_property>
+      <obj_property name="ObjectShortName">pwm13</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm14" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm14</obj_property>
+      <obj_property name="ObjectShortName">pwm14</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm15" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm15</obj_property>
+      <obj_property name="ObjectShortName">pwm15</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm16" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm16</obj_property>
+      <obj_property name="ObjectShortName">pwm16</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm17" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm17</obj_property>
+      <obj_property name="ObjectShortName">pwm17</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm1_out" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm1_out</obj_property>
+      <obj_property name="ObjectShortName">pwm1_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm2_out" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm2_out</obj_property>
+      <obj_property name="ObjectShortName">pwm2_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm3_out" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm3_out</obj_property>
+      <obj_property name="ObjectShortName">pwm3_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm4_out" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm4_out</obj_property>
+      <obj_property name="ObjectShortName">pwm4_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm5_out" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm5_out</obj_property>
+      <obj_property name="ObjectShortName">pwm5_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm6_out" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm6_out</obj_property>
+      <obj_property name="ObjectShortName">pwm6_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm7_out" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm7_out</obj_property>
+      <obj_property name="ObjectShortName">pwm7_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm8_out" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm8_out</obj_property>
+      <obj_property name="ObjectShortName">pwm8_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm9_out" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm9_out</obj_property>
+      <obj_property name="ObjectShortName">pwm9_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm10_out" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm10_out</obj_property>
+      <obj_property name="ObjectShortName">pwm10_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm11_out" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm11_out</obj_property>
+      <obj_property name="ObjectShortName">pwm11_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm12_out" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm12_out</obj_property>
+      <obj_property name="ObjectShortName">pwm12_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm13_out" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm13_out</obj_property>
+      <obj_property name="ObjectShortName">pwm13_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm14_out" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm14_out</obj_property>
+      <obj_property name="ObjectShortName">pwm14_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm15_out" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm15_out</obj_property>
+      <obj_property name="ObjectShortName">pwm15_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm16_out" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm16_out</obj_property>
+      <obj_property name="ObjectShortName">pwm16_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm17_out" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm17_out</obj_property>
+      <obj_property name="ObjectShortName">pwm17_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwmbp" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pwmbp</obj_property>
+      <obj_property name="ObjectShortName">pwmbp</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm_base_reg" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm_base_reg[10:0]</obj_property>
+      <obj_property name="ObjectShortName">pwm_base_reg[10:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm1_duty_reg" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm1_duty_reg[9:0]</obj_property>
+      <obj_property name="ObjectShortName">pwm1_duty_reg[9:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm2_duty_reg" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm2_duty_reg[9:0]</obj_property>
+      <obj_property name="ObjectShortName">pwm2_duty_reg[9:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm3_duty_reg" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm3_duty_reg[9:0]</obj_property>
+      <obj_property name="ObjectShortName">pwm3_duty_reg[9:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm4_duty_reg" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm4_duty_reg[9:0]</obj_property>
+      <obj_property name="ObjectShortName">pwm4_duty_reg[9:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm5_duty_reg" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm5_duty_reg[9:0]</obj_property>
+      <obj_property name="ObjectShortName">pwm5_duty_reg[9:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm6_duty_reg" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm6_duty_reg[9:0]</obj_property>
+      <obj_property name="ObjectShortName">pwm6_duty_reg[9:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm7_duty_reg" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm7_duty_reg[9:0]</obj_property>
+      <obj_property name="ObjectShortName">pwm7_duty_reg[9:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm8_duty_reg" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm8_duty_reg[9:0]</obj_property>
+      <obj_property name="ObjectShortName">pwm8_duty_reg[9:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm9_duty_reg" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm9_duty_reg[9:0]</obj_property>
+      <obj_property name="ObjectShortName">pwm9_duty_reg[9:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm10_duty_reg" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm10_duty_reg[9:0]</obj_property>
+      <obj_property name="ObjectShortName">pwm10_duty_reg[9:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm11_duty_reg" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm11_duty_reg[9:0]</obj_property>
+      <obj_property name="ObjectShortName">pwm11_duty_reg[9:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm12_duty_reg" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm12_duty_reg[9:0]</obj_property>
+      <obj_property name="ObjectShortName">pwm12_duty_reg[9:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm13_duty_reg" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm13_duty_reg[9:0]</obj_property>
+      <obj_property name="ObjectShortName">pwm13_duty_reg[9:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm14_duty_reg" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm14_duty_reg[9:0]</obj_property>
+      <obj_property name="ObjectShortName">pwm14_duty_reg[9:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm15_duty_reg" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm15_duty_reg[9:0]</obj_property>
+      <obj_property name="ObjectShortName">pwm15_duty_reg[9:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm16_duty_reg" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm16_duty_reg[9:0]</obj_property>
+      <obj_property name="ObjectShortName">pwm16_duty_reg[9:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/pwm17_duty_reg" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">pwm17_duty_reg[9:0]</obj_property>
+      <obj_property name="ObjectShortName">pwm17_duty_reg[9:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/base_cycle_counter_reg" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">base_cycle_counter_reg[6:0]</obj_property>
+      <obj_property name="ObjectShortName">base_cycle_counter_reg[6:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/twin_trap_fixed_Verilog/count_base_reg" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">count_base_reg[15:0]</obj_property>
+      <obj_property name="ObjectShortName">count_base_reg[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+</wave_config>
